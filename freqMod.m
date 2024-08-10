@@ -1,5 +1,5 @@
 %For other details, refer my Linkedin post
-%profile 
+%profile https://www.linkedin.com/pulse/frequency-modulation-demodulation-arumukam-ganes-moorthe-v-fabyc
 fm=input('Enter frequency of message signal,fm:');
 fc=input('Enter frequency of carrier signal,fc:');
 Am=input('Enter Amplitude of message signal,Am:');
