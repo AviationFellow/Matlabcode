@@ -1,8 +1,9 @@
-
-%fm=input('Enter frequency of message signal,fm:');
-%fc=input('Enter frequency of carrier signal,fc:');
-%Am=input('Enter Amplitude of message signal,Am:');
-%Ac=input('Enter Amplitude of carrier signal,Ac:');
+%For other details, refer my Linkedin post
+%profile 
+fm=input('Enter frequency of message signal,fm:');
+fc=input('Enter frequency of carrier signal,fc:');
+Am=input('Enter Amplitude of message signal,Am:');
+Ac=input('Enter Amplitude of carrier signal,Ac:');
 Beta=input("Enter Beta value,β:");
 t=0:(1/(100*fc)):(50/fc);
 msgsgl=Am.*cos(2*pi*fm*t);
