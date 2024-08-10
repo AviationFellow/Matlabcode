@@ -1,3 +1,6 @@
+%the descpription of this code and other are given in linkedIn, so check out there
+%profile 
+
 fm=input('Enter frequency of message signal,fm:');
 fc=input('Enter frequency of carrier signal,fc:');
 Am=input('Enter Amplitude of message signal,Am:');
@@ -31,3 +34,6 @@ title("Rx-Rectified Sgl")
 subplot(5,1,5)
 plot(y)
 title("Rx-filtered message Sgl")
+
+
+
