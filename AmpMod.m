@@ -1,5 +1,5 @@
 %the descpription of this code and other are given in linkedIn, so check out there
-%profile 
+%profile https://www.linkedin.com/posts/arumukam-ganes-moorthe-v-164877291_matlab-signalprocessing-engineering-activity-7228077649347100672-mLFN?utm_source=share&utm_medium=member_desktop
 
 fm=input('Enter frequency of message signal,fm:');
 fc=input('Enter frequency of carrier signal,fc:');
