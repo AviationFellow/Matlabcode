@@ -1,4 +1,4 @@
-[audData, Fs] = audioread('C:\Users\Venka\Downloads\Maruthamalai Maamaniye Ringtone.mp3','native');
+[audData, Fs] = audioread('C:File_Path','native');
 % Compute the FFT
 t = (0:length(audData) - 1) / Fs;
 plot(t, audData);
