@@ -1,4 +1,4 @@
-originalImage = imread('C:\Users\Venka\OneDrive\Pictures\wallpaperflare.com_wallpaper (3).jpg');
+originalImage = imread('File_Path');
 figure;
 imshow(originalImage);
 title("Original Image");
